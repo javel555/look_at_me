@@ -1,5 +1,5 @@
 module Ruboty
-  module Fizzbuzz
+  module LookAtMe
     module Actions
       class Fizzbuzz < Ruboty::Actions::Base
         def call
