@@ -1,5 +1,6 @@
 require "ruboty/look_at_me/version"
 require "ruboty/handlers/fizzbuzz"
+require "rubicure"
 
 module Ruboty
   module LookAtMe
