@@ -1,4 +1,4 @@
-require "ruboty/fizzbuzz/actions/fizzbuzz"
+require "ruboty/look_at_me/actions/fizzbuzz"
 
 module Ruboty
   module Handlers
