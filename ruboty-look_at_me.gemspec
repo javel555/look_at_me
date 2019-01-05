@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{look_at_me.}
   spec.description   = %q{look_at_me.}
-  spec.homepage      = "none"
+  spec.homepage      = "https://github.com/javel555/look_at_me"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
